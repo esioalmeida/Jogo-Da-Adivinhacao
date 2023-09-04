@@ -57,7 +57,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/5bxl7Jtfe0QBRvHZmihsEZ/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?type=design&mode=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NjobpvPRB8RWXWdMGUeA7D/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=5%3A114&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
